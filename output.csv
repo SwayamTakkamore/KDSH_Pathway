@@ -1,0 +1,136 @@
+Paper ID,Publishable,Conference,Rationale
+P001,1,emnlp,Limited citations.
+P002,1,tmlr,Concise presentation. Good vocabulary diversity. Limited citations.
+P003,1,neurips,Limited citations.
+P004,0,na,Limited citations.
+P005,1,kdd,Good vocabulary diversity. Limited citations.
+P006,1,tmlr,Limited citations.
+P007,1,emnlp,Good vocabulary diversity. Limited citations.
+P008,1,neurips,Concise presentation. Good vocabulary diversity. Limited citations.
+P009,1,cvpr,Concise presentation. Good vocabulary diversity. Limited citations.
+P010,1,cvpr,Concise presentation. Limited citations.
+P011,0,na,Concise presentation. Good vocabulary diversity. Limited citations.
+P012,1,kdd,Good vocabulary diversity. Limited citations.
+P013,1,cvpr,Limited citations.
+P014,1,kdd,Concise presentation. Good vocabulary diversity. Limited citations.
+P015,1,cvpr,Concise presentation. Good vocabulary diversity. Limited citations.
+P016,1,cvpr,Good vocabulary diversity. Limited citations.
+P017,1,neurips,Concise presentation. Good vocabulary diversity. Limited citations.
+P018,1,emnlp,Concise presentation. Good vocabulary diversity. Limited citations.
+P019,1,emnlp,Concise presentation. Good vocabulary diversity. Limited citations.
+P020,1,cvpr,Concise presentation. Good vocabulary diversity. Limited citations.
+P021,1,cvpr,Concise presentation. Good vocabulary diversity. Limited citations.
+P022,1,emnlp,Concise presentation. Good vocabulary diversity. Limited citations.
+P023,0,na,Good vocabulary diversity. Limited citations.
+P024,1,tmlr,Good vocabulary diversity. Limited citations.
+P025,1,cvpr,Concise presentation. Good vocabulary diversity. Limited citations.
+P026,0,na,Good vocabulary diversity. Limited citations. Borderline classification.
+P027,1,kdd,Concise presentation. Good vocabulary diversity. Limited citations.
+P028,1,neurips,Concise presentation. Good vocabulary diversity. Limited citations.
+P029,1,neurips,Concise presentation. Good vocabulary diversity. Limited citations.
+P030,1,kdd,Limited citations.
+P031,1,neurips,Good vocabulary diversity. Limited citations.
+P032,1,cvpr,Concise presentation. Good vocabulary diversity. Limited citations.
+P033,0,na,Concise presentation. Good vocabulary diversity. Limited citations.
+P034,1,cvpr,Concise presentation. Good vocabulary diversity. Limited citations.
+P035,1,cvpr,Good vocabulary diversity. Limited citations.
+P036,1,kdd,Limited citations.
+P037,1,cvpr,Concise presentation. Good vocabulary diversity. Limited citations.
+P038,1,cvpr,Good vocabulary diversity. Limited citations.
+P039,1,cvpr,Concise presentation. Good vocabulary diversity. Limited citations.
+P040,1,emnlp,Good vocabulary diversity. Limited citations.
+P041,1,kdd,Concise presentation. Good vocabulary diversity. Limited citations.
+P042,1,tmlr,Limited citations.
+P043,1,cvpr,Limited citations.
+P044,1,cvpr,Limited citations.
+P045,1,emnlp,Limited citations.
+P046,0,na,Limited citations. Strong classifier confidence.
+P047,1,cvpr,Concise presentation. Good vocabulary diversity. Limited citations.
+P048,0,na,Concise presentation. Good vocabulary diversity. Limited citations.
+P049,1,emnlp,Good vocabulary diversity. Limited citations.
+P050,1,cvpr,Concise presentation. Good vocabulary diversity. Limited citations.
+P051,1,cvpr,Concise presentation. Good vocabulary diversity. Limited citations.
+P052,1,neurips,Limited citations.
+P053,0,na,Concise presentation. Good vocabulary diversity. Limited citations.
+P054,1,emnlp,Concise presentation. Good vocabulary diversity. Limited citations.
+P055,1,emnlp,Limited citations.
+P056,0,na,Limited citations.
+P057,0,na,Limited citations.
+P058,1,cvpr,Good vocabulary diversity. Limited citations.
+P059,1,neurips,Good vocabulary diversity. Limited citations.
+P060,1,kdd,Limited citations.
+P061,1,cvpr,Good vocabulary diversity. Limited citations.
+P062,0,na,Concise presentation. Good vocabulary diversity. Limited citations.
+P063,1,emnlp,Good vocabulary diversity. Limited citations.
+P064,1,cvpr,Concise presentation. Good vocabulary diversity. Limited citations.
+P065,1,emnlp,Limited citations.
+P066,1,emnlp,Concise presentation. Good vocabulary diversity. Limited citations.
+P067,1,emnlp,Concise presentation. Good vocabulary diversity. Limited citations.
+P068,1,emnlp,Concise presentation. Good vocabulary diversity. Limited citations.
+P069,1,cvpr,Good vocabulary diversity. Limited citations.
+P070,1,cvpr,Limited citations.
+P071,0,na,Concise presentation. Good vocabulary diversity. Limited citations.
+P072,1,cvpr,Concise presentation. Good vocabulary diversity. Limited citations.
+P073,1,cvpr,Good vocabulary diversity. Limited citations.
+P074,1,emnlp,Concise presentation. Limited citations.
+P075,1,cvpr,Limited citations.
+P076,1,kdd,Concise presentation. Good vocabulary diversity. Limited citations.
+P077,1,cvpr,Limited citations.
+P078,1,emnlp,Concise presentation. Good vocabulary diversity. Limited citations.
+P079,1,cvpr,Concise presentation. Good vocabulary diversity. Limited citations.
+P080,1,emnlp,Concise presentation. Limited citations.
+P081,1,cvpr,Concise presentation. Limited citations.
+P082,0,na,Limited citations. Strong classifier confidence.
+P083,1,cvpr,Limited citations.
+P084,1,emnlp,Good vocabulary diversity. Limited citations.
+P085,0,na,Limited vocabulary range. Limited citations. Strong classifier confidence.
+P086,1,cvpr,Good vocabulary diversity. Limited citations.
+P087,0,na,Limited citations. Strong classifier confidence.
+P088,0,na,Limited citations. Strong classifier confidence.
+P089,1,emnlp,Limited citations.
+P090,0,na,Limited citations.
+P091,1,cvpr,Limited citations.
+P092,0,na,Concise presentation. Good vocabulary diversity. Limited citations.
+P093,1,emnlp,Limited citations.
+P094,1,emnlp,Limited citations.
+P095,1,cvpr,Limited citations.
+P096,1,emnlp,Limited citations.
+P097,0,na,Limited citations.
+P098,0,na,Limited citations.
+P099,0,na,Limited citations.
+P100,0,na,Limited citations.
+P101,0,na,Limited vocabulary range. Limited citations. Strong classifier confidence.
+P102,0,na,Limited citations. Strong classifier confidence.
+P103,0,na,Limited citations.
+P104,1,emnlp,Concise presentation. Good vocabulary diversity. Limited citations.
+P105,0,na,Limited citations. Strong classifier confidence.
+P106,0,na,Limited citations. Strong classifier confidence.
+P107,0,na,Limited citations. Borderline classification.
+P108,0,na,Limited citations. Borderline classification.
+P109,1,emnlp,Limited citations.
+P110,0,na,Limited vocabulary range. Limited citations. Strong classifier confidence.
+P111,0,na,Limited citations.
+P112,1,emnlp,Concise presentation. Good vocabulary diversity. Limited citations.
+P113,1,cvpr,Limited citations.
+P114,1,emnlp,Good vocabulary diversity. Limited citations.
+P115,1,emnlp,Limited citations.
+P116,1,emnlp,Limited citations.
+P117,1,emnlp,Limited citations.
+P118,1,cvpr,Good vocabulary diversity. Limited citations.
+P119,1,cvpr,Good vocabulary diversity. Limited citations.
+P120,1,kdd,Concise presentation. Good vocabulary diversity. Limited citations.
+P121,0,na,Good vocabulary diversity. Limited citations.
+P122,1,emnlp,Limited citations.
+P123,0,na,Limited citations.
+P124,1,emnlp,Limited citations.
+P125,1,emnlp,Limited citations.
+P126,1,cvpr,Limited citations.
+P127,0,na,Limited vocabulary range. Limited citations.
+P128,0,na,Limited vocabulary range. Limited citations. Strong classifier confidence.
+P129,0,na,Limited citations.
+P130,1,kdd,Limited citations.
+P131,0,na,Limited vocabulary range. Limited citations. Borderline classification.
+P132,1,neurips,Limited citations.
+P133,1,cvpr,Limited citations.
+P134,0,na,Limited vocabulary range. Limited citations.
+P135,0,na,Limited vocabulary range. Limited citations. Borderline classification.
